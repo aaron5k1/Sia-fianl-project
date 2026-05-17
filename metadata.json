@@ -1,0 +1,8 @@
+{
+  "name": "ZenTask Harmony",
+  "description": "A minimalist, modern task manager with Kanban boards, calendar views, subtasks, and recurring tasks, featuring a sleek glassy design with dark mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
